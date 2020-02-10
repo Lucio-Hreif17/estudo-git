@@ -3,3 +3,5 @@ este é um arquivo sério.
  teste...
 
  teste 2.0
+
+ teste 3.0
